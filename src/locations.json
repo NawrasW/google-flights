@@ -1,0 +1,4 @@
+[
+    { "city": "New York", "country": "USA", "skyId": "NYC", "entityId": "NYC_ID" },
+    { "city": "London", "country": "UK", "skyId": "LON", "entityId": "LON_ID" }
+  ]
